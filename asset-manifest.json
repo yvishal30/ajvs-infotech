@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/yvishal30/ajvs-infotech/static/css/main.8e534a2d.css",
-    "main.js": "/yvishal30/ajvs-infotech/static/js/main.a5a81253.js",
-    "static/js/453.30fcfcab.chunk.js": "/yvishal30/ajvs-infotech/static/js/453.30fcfcab.chunk.js",
-    "static/media/bg.jpg": "/yvishal30/ajvs-infotech/static/media/bg.6171fafc5bc675d8de72.jpg",
-    "static/media/about-us.png": "/yvishal30/ajvs-infotech/static/media/about-us.e541ceedbd2beb4e15fb.png",
-    "static/media/admin.png": "/yvishal30/ajvs-infotech/static/media/admin.245f254c687d7ffb8071.png",
-    "static/media/tools.png": "/yvishal30/ajvs-infotech/static/media/tools.f1884ca5afd7f8a8f977.png",
-    "static/media/business.png": "/yvishal30/ajvs-infotech/static/media/business.f0994f765af17f0d2be0.png",
-    "static/media/customize.png": "/yvishal30/ajvs-infotech/static/media/customize.b975e96165704a482c40.png",
-    "static/media/portfolio.png": "/yvishal30/ajvs-infotech/static/media/portfolio.11255d30604fc99f54be.png",
-    "static/media/static-website.png": "/yvishal30/ajvs-infotech/static/media/static-website.2ccb8a5bccd3a4cd41c7.png",
-    "static/media/dynamic-website.png": "/yvishal30/ajvs-infotech/static/media/dynamic-website.f4e7efb251a12268ae18.png",
-    "index.html": "/yvishal30/ajvs-infotech/index.html",
-    "main.8e534a2d.css.map": "/yvishal30/ajvs-infotech/static/css/main.8e534a2d.css.map",
-    "main.a5a81253.js.map": "/yvishal30/ajvs-infotech/static/js/main.a5a81253.js.map",
-    "453.30fcfcab.chunk.js.map": "/yvishal30/ajvs-infotech/static/js/453.30fcfcab.chunk.js.map"
+    "main.css": "/ajvs-infotech/static/css/main.bda0e4a2.css",
+    "main.js": "/ajvs-infotech/static/js/main.b3f22e27.js",
+    "static/js/453.30fcfcab.chunk.js": "/ajvs-infotech/static/js/453.30fcfcab.chunk.js",
+    "static/media/bg.jpg": "/ajvs-infotech/static/media/bg.6171fafc5bc675d8de72.jpg",
+    "static/media/about-us.png": "/ajvs-infotech/static/media/about-us.e541ceedbd2beb4e15fb.png",
+    "static/media/admin.png": "/ajvs-infotech/static/media/admin.245f254c687d7ffb8071.png",
+    "static/media/tools.png": "/ajvs-infotech/static/media/tools.f1884ca5afd7f8a8f977.png",
+    "static/media/business.png": "/ajvs-infotech/static/media/business.f0994f765af17f0d2be0.png",
+    "static/media/customize.png": "/ajvs-infotech/static/media/customize.b975e96165704a482c40.png",
+    "static/media/portfolio.png": "/ajvs-infotech/static/media/portfolio.11255d30604fc99f54be.png",
+    "static/media/static-website.png": "/ajvs-infotech/static/media/static-website.2ccb8a5bccd3a4cd41c7.png",
+    "static/media/dynamic-website.png": "/ajvs-infotech/static/media/dynamic-website.f4e7efb251a12268ae18.png",
+    "index.html": "/ajvs-infotech/index.html",
+    "main.bda0e4a2.css.map": "/ajvs-infotech/static/css/main.bda0e4a2.css.map",
+    "main.b3f22e27.js.map": "/ajvs-infotech/static/js/main.b3f22e27.js.map",
+    "453.30fcfcab.chunk.js.map": "/ajvs-infotech/static/js/453.30fcfcab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e534a2d.css",
-    "static/js/main.a5a81253.js"
+    "static/css/main.bda0e4a2.css",
+    "static/js/main.b3f22e27.js"
   ]
 }
