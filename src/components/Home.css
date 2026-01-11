@@ -1,0 +1,62 @@
+.hero-section {
+  height: 100vh;
+  background-image: url("E:\FreeLance\ajvs-infotech\src\images\bg.jpg"); /* place image in public/images */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6); /* dark overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  color: #fff;
+}
+
+/* Animated underline slide effect */
+.animate-text {
+  font-size: 3rem;
+  font-weight: bold;
+  position: relative;
+  display: inline-block;
+}
+
+.animate-text::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 4px;
+  left: 50%;
+  bottom: -8px;
+  background-color: #ff6b35;
+  transition: all 0.5s ease;
+}
+
+.animate-text:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+.tagline {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  animation: fadeUp 1.2s ease-in-out;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
